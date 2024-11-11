@@ -37,17 +37,34 @@ sudo apt install -y php-fpm php-common php-mbstring php-xmlrpc php-soap php-gd p
 ```
 ![text alternatiu](5.png).
 
-5. Ara reiniciem el servidor apache2
+5. Ara reiniciem el servidor apache2 i seguim amb les comandes en el terminal
 ```console
-sudo systemctl restart apache2
+sudo systemctl restart apache2 
+```
+```console
+sudo mysql
 ```
 ![text alternatiu](6.png).
 
 ## Configuració de MySQL
-### Accedim a la consola de MySQL
-Seguim amb les comandes en el terminal
+### Creació base de dates
+Dins de el MySQL tens que posar aquestes comandes de creació de dates, de usuaris i sortim de la base.
 ```console
-sudo mysql
+CREATE DATABASE bbdd;
 ```
+```console
+CREATE USER 'usuario'@'localhost' IDENTIFIED WITH mysql_native_password BY 'password';
+```
+```console
+GRANT ALL ON bbdd.* to 'usuario'@'localhost';
+```
+```console
+exit
+```
+
+![text alternatiu](7.png).
+
+
+
 
 
