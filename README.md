@@ -15,7 +15,15 @@ sudo apt upgrade
 ```
 ![text alternatiu](2.png).
 
-2. SEgon instalem el servidor web `apache2`.
+2. Segon instalem el servidor web `apache2`.
 ```console
 sudo apt install -y apache2
 ```
+![text alternatiu](3.png).
+
+
+3. Tercer instalem la base de dates al servidor `mysql-server`.
+```console
+sudo apt install -y mysql-server
+```
+![text alternatiu](4.png).
