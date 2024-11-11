@@ -27,3 +27,27 @@ sudo apt install -y apache2
 sudo apt install -y mysql-server
 ```
 ![text alternatiu](4.png).
+
+4. Instalem les llibreries de `php`, i el llenguatge de les aplicacions.
+```console
+sudo apt install -y php libapache2-mod-php
+```
+```console
+sudo apt install -y php-fpm php-common php-mbstring php-xmlrpc php-soap php-gd php-xml php-intl php-mysql php-cli php-ldap php-zip php-curl
+```
+![text alternatiu](5.png).
+
+5. Ara reiniciem el servidor apache2
+```console
+sudo systemctl restart apache2
+```
+![text alternatiu](6.png).
+
+## Configuració de MySQL
+### Accedim a la consola de MySQL
+Seguim amb les comandes en el terminal
+```console
+sudo mysql
+```
+
+
