@@ -64,6 +64,14 @@ exit
 
 ![text alternatiu](7.png).
 
+## Descarrega de fitxers de l'aplicacoó web
+
+Anem al directori `/var/www/html` i mirem el nombre del fitxer que acaben de descarregar i substituim per `app-web.zip` per el nom del nostre fitxer que hem descarregat amb l'aplicació web. Si esta en castella dons seria Descargas no Baixades
+
+```console
+sudo cp ~/Baixades/app-web.zip /var/www/html
+```
+
 
 
 
