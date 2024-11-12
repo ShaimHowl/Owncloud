@@ -92,5 +92,35 @@ sudo rm -rf app-web/
 
 ![text alternatiu](10.png).
 
+## Eliminem el nostre fitxer `index.html` de l'`apache2`
+```console
+sudo rm -rf /var/www/html/index.html
+```
 
+![text alternatiu](11.png).
+
+## Aplicació de permisos a les nostres aplicacions web
+Despres de comprimir els fitxers de l'aplicació de la web `/var/www/html`, apliquem altres permisos ver que funcionin`/var/www/html`
+
+```console
+cd /var/www/html
+```
+```console
+sudo chmod -R 775 .
+```
+```console
+sudo chown -R usuario:www-data .
+```
+
+![text alternatiu](12.png).
+
+## Ja podem veure si l'aplicació funciona
+Poseu la direcció http://localhost al navegador web i configureu la cloud.
+
+# Aqui estan les claus que es necessiten
+
+* **usuari:** usuario
+* **contrasenya:** password
+* **base de dades:** bbdd
+* **domini:** localhost
 
