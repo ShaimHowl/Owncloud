@@ -34,7 +34,7 @@ sudo apt install -y php libapache2-mod-php
 ```
 ```console
 sudo apt install -y php-fpm php-common php-mbstring php-xmlrpc php-soap php-gd php-xml php-intl php-mysql php-cli php-ldap php-zip php-curl
-```
+```Captura de pantalla de 2024-11-12 08-27-46.png
 ![text alternatiu](5.png).
 
 5. Ara reiniciem el servidor apache2 i seguim amb les comandes en el terminal
@@ -66,12 +66,17 @@ exit
 
 ## Descarrega de fitxers de l'aplicacoó web
 
-Anem al directori `/var/www/html` i mirem el nombre del fitxer que acaben de descarregar i substituim per `app-web.zip` per el nom del nostre fitxer que hem descarregat amb l'aplicació web. Si esta en castella dons seria Descargas no Baixades
+Anem al directori `/var/www/html` i mirem el nombre del fitxer que acaben de descarregar i substituim per `app-web.zip` per el nom del nostre fitxer que hem descarregat amb l'aplicació web. Si esta en castella dons seria Descargas no Baixades i posem usuari
 
 ```console
 sudo cp ~/Baixades/app-web.zip /var/www/html
 ```
+![text alternatiu](8.png).
 
+Ara anem al directori `/var/www/html`
+```console
+cd /var/www/html
+```
 
 
 
