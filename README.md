@@ -73,11 +73,24 @@ sudo cp ~/Baixades/app-web.zip /var/www/html
 ```
 ![text alternatiu](8.png).
 
-Ara anem al directori `/var/www/html`
+Ara anem al directori `/var/www/html` i descomprimim el fitxer que hem baixat
 ```console
 cd /var/www/html
 ```
 
+![text alternatiu](9.png).
+
+
+Copiem els fitxers a la carpeta `/var/www/html`, i canviem `app-web` pel el nom del nostre directori, despres eliminimen la carpeta que hem creat de l'unzip
+```console
+sudo cp -R app-web/. /var/www/html
+```
+```console
+sudo rm -rf app-web/
+```
+
+
+![text alternatiu](10.png).
 
 
 
