@@ -141,10 +141,11 @@ Poseu la direcció http://localhost al navegador web i configureu la cloud.
 ## 5
 
 ### He creat 3 usuaris (admin, editor y visualizador)
-
+Primer he creat un grup per ficar dintre els usuaris, el primer a segut l'editor
 ![image](18.png)
 ![image](19.png)
-
+En aquest cas despres de posar el email i el nom he clicat en la opció de editor
+![image](20.png)
 
 
 
