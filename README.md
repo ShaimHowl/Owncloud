@@ -112,8 +112,6 @@ sudo chmod -R 775 .
 sudo chown -R usuario:www-data .
 ```
 
-![text alternatiu](12.png).
-
 ## Ja podem veure si l'aplicació funciona
 Poseu la direcció http://localhost al navegador web i configureu la cloud.
 
@@ -123,4 +121,13 @@ Poseu la direcció http://localhost al navegador web i configureu la cloud.
 * **contrasenya:** password
 * **base de dades:** bbdd
 * **domini:** localhost
+
+## 2
+
+![text alternatiu](12.png).
+![text alternatiu](13.png).
+
+
+
+
 
