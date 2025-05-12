@@ -1,4 +1,10 @@
-# Instal·lació i configuració de aplicacions web
+## 2
+
+![text alternatiu](12.png).
+![text alternatiu](13.png).
+
+
+# 3 Instal·lació i configuració de aplicacions web
 Avui us ensenyare a descargar una aplicació, pero fent que funcioni amb tots els codis següents, necessitarem
 codis del terminal perque funcioni l'aplicació
 Primer instalarem làplicació al directori
@@ -122,10 +128,8 @@ Poseu la direcció http://localhost al navegador web i configureu la cloud.
 * **base de dades:** bbdd
 * **domini:** localhost
 
-## 2
+## 4
 
-![text alternatiu](12.png).
-![text alternatiu](13.png).
 
 
 
