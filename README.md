@@ -148,7 +148,11 @@ Poseu la direcció http://localhost al navegador web i configureu la cloud.
 ![image](20.png)
 #### I aixi quedaria
 ![image](21.png)
-
+#### I he fet el mateix amb el visualizador, en aquest cas es diu Roberto
+![image](22.png)
+![image](23.png)
+#### Al final ens quedaria aixi els tres tipus
+![image](24.png)
 
 
 
