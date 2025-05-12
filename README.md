@@ -129,9 +129,14 @@ Poseu la direcció http://localhost al navegador web i configureu la cloud.
 * **domini:** localhost
 
 ## 4
-### Aqui subi una archivo
+### Aqui he pujat un arxiu
 ![text alternatiu](14.png).
 ![text alternatiu](15.png).
+
+### He creat una carpeta que es diu Futboleros
+![text alternatiu](16.png).
+### Tambe puc compartir nomes que no tinc ningun grup encara
+![text alternatiu](17.png).
 
 
 
