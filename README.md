@@ -129,6 +129,10 @@ Poseu la direcció http://localhost al navegador web i configureu la cloud.
 * **domini:** localhost
 
 ## 4
+Aqui subi una archivo
+![text alternatiu](14.png).
+![text alternatiu](15.png).
+
 
 
 
