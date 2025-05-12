@@ -138,6 +138,13 @@ Poseu la direcció http://localhost al navegador web i configureu la cloud.
 ### Tambe puc compartir nomes que no tinc ningun grup encara
 ![text alternatiu](17.png).
 
+## 5
+
+### He creat 3 usuaris (admin, editor y visualizador)
+
+![image](18.png)
+![image](19.png)
+
 
 
 
