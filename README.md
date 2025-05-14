@@ -195,5 +195,10 @@ Poseu la direcció http://localhost al navegador web i configureu la cloud.
 ## 6
 #### El admin pot controlar tot, pot compartir amb altres persones pot eliminar tots els usuaris que estiguin dintre, despres els editors no tenen permis pero tocar els altres comptes ja que allo nomes ho pot fer l'administrador, els editors el que fan es que poden tocar els PDF, els arxius, les carpetes y modificarles i per ultim els visualizador no poden fer mes que mirar tot el que hi ha, com el PDF mateix ho pott obrir i mirar, tampoc poden configurar les carpetes
 
+## 7
+
+#### He organitzat un carpeta que he creat que es diu "moure", que al he ficat dintre de photos
+![image](25.png)
+![image](26.png)
 
 
