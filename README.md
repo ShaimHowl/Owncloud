@@ -199,6 +199,19 @@ Poseu la direcció http://localhost al navegador web i configureu la cloud.
 
 #### He organitzat un carpeta que he creat que es diu "moure", que al he ficat dintre de photos
 ![image](25.png)
+#### I aqui esta dintre
 ![image](26.png)
+#### Configuració dels enllaços
+#### He escollit el Pdf de futboleros, i com no tenia un enllaç he creat un
+![image](27.png)
+![image](28.png)
+#### Aqui esta les dades
+![image](29.png)
+
+
+## 8
+
+
+
 
 
