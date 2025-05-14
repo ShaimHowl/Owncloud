@@ -2,17 +2,17 @@
 ### Procediment de IsardVDI
 #### Aixi queda al final
 
-![text alternatiu](32.png).
+![text alternatiu](32.png-copia.png).
 
 ### Aquest son els pasos
 #### Posem el nom de la maquina
-![text alternatiu](33.png).
+![text alternatiu](33.png-copia.png).
 #### Aquest son les dos pantalles que tenim
-![text alternatiu](34.png).
+![text alternatiu](34.png.png).
 #### La config ha sigut 4 vCPUS 31 de memoria, el video "virtio", el boot "Hard Disk" i l'ultim Disk Bus "defaut"
-![text alternatiu](35.png).
+![text alternatiu](35.png.png).
 #### I al creem, en aquest cas enviem perque jo ja tenia la maquina
-![text alternatiu](36).
+![text alternatiu](36.png).
 
 
 
