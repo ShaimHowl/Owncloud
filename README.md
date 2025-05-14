@@ -2,7 +2,7 @@
 ### Procediment de IsardVDI
 #### Aixi queda al final
 
-![text alternatiu](32.png-copia.png).
+![text alternatiu](32.pngcopia.png).
 
 ### Aquest son els pasos
 #### Posem el nom de la maquina
