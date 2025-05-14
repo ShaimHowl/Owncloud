@@ -207,7 +207,10 @@ Poseu la direcció http://localhost al navegador web i configureu la cloud.
 ![image](28.png)
 #### Aqui esta les dades
 ![image](29.png)
-
+#### Ara si vui configurar la caducitat tinc que clicar el signe de configuració "setting"
+![image](30.png)
+#### I ja abaix puc canviar la caducitat
+![image](31.png)
 
 ## 8
 
