@@ -4,10 +4,18 @@
 ![text alternatiu](13.png).
 
 
-# 3 Instal·lació i configuració de aplicacions web
+# 3 
+
+# Instal·lació i configuració de aplicacions web
 Avui us ensenyare a descargar una aplicació, pero fent que funcioni amb tots els codis següents, necessitarem
 codis del terminal perque funcioni l'aplicació
-Primer instalarem làplicació al directori
+Primer instalarem làplicació al director.
+## Instalarem la versio 7.4 de Php a UBuntu
+
+#### Estos son los requisitos previos de PPA.
+```bash
+sudo apt install software-properties-common -y
+```
 
 ## Instal·lació d'apache2, mysql i algunes llibreries al contenidor
 
